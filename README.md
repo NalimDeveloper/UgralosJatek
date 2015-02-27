@@ -1,3 +1,5 @@
+!!!FELADAT KIIRAS!!!
+
 Játék lényege: (lokálisan)
 Az "INDÍTÁS" gomb lenyomása után elindul a játék. A játék addig megy, amíg le nem esik a karakter.
 
