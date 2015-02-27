@@ -1,5 +1,5 @@
 Játék lényege: (lokálisan)
-Az "INDÍTÁS" gomb lenyomása után elindul a játék. A játék addig megy, amíg le nem esik.
+Az "INDÍTÁS" gomb lenyomása után elindul a játék. A játék addig megy, amíg le nem esik a karakter.
 
 Játék lényege: (hálózatban)
 Belépés után a szoftver választ véletlenszerűen egyet a szabad játékosok közül az "INDÍTÁS" gomb lenyomása után. Ezután a két játékos foglalt állapotba kerül és elindul a játék. Elkezdenek versenyezni, hogy ki hagyja le hamarabb a másikat. Aki nyer, az kap egy pontot, majd újra szabad állapotba kerül a két játékos.
