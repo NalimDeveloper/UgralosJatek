@@ -1,6 +1,8 @@
-Játék lényege:
-Belépés után a szoftver választ véletlenszerűen egy szabad játékost egy "INDÍTÁS" gomb lenyomása után. Elkezdenek versenyezni, hogy ki hagyja le hamarabb a másikat. Játék közben a két játékos foglalt állapotot kap. 
-Aki nyer, az kap egy pontot, majd újra szabad állapotba kerül a két játékos.
+Játék lényege: (lokálisan)
+Az "INDÍTÁS" gomb lenyomása után elindul a játék. A játék addig megy, amíg le nem esik.
+
+Játék lényege: (hálózatban)
+Belépés után a szoftver választ véletlenszerűen egyet a szabad játékosok közül az "INDÍTÁS" gomb lenyomása után. Ezután a két játékos foglalt állapotba kerül és elindul a játék. Elkezdenek versenyezni, hogy ki hagyja le hamarabb a másikat. Aki nyer, az kap egy pontot, majd újra szabad állapotba kerül a két játékos.
 
 A pálya viselkedése:
 A pálya folyamatosan megy jobbról balra, kisebb nagyobb előre legenerált szigetekkel, amiben a karakter meg tud ütközni. A pályának eközben van egy gravitációja, ami húzza lefele a karaktert a képernyő alsó részéhez.
