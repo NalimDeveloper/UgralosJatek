@@ -25,10 +25,19 @@ Karakter:
 Elemek: karakterneve
 Cselekvés: gugol, ugrik, áll
 
-Játék:
-csatlakozik két véletlen karakter
-foglalt állapotba kerül a két karakter
-betölti a hátteret
-betölti a karaktereket
-betölti a pályát
+
+Játék (lokális):
+betölti a hátteret -
+betölti a karaktereket -
+betölti a pályát - 
 játszik amíg egy távolságon belül van a két játékos
+
+
+Játék (hálózat):
+csatlakozik két véletlen karakter -
+foglalt állapotba kerül a két karakter -
+betölti a hátteret -
+betölti a karaktereket -
+betölti a pályát - 
+játszik amíg egy távolságon belül van a két játékos
+
