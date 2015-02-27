@@ -1,5 +1,3 @@
-Objektumok: Pálya, szigetek(több féle - nagy, kicsi, zuhanó, emelkedő), karakter
-
 Játék lényege:
 Belépés után a szoftver választ véletlenszerűen egy szabad játékost egy "INDÍTÁS" gomb lenyomása után. Elkezdenek versenyezni, hogy ki hagyja le hamarabb a másikat. Játék közben a két játékos foglalt állapotot kap. 
 Aki nyer, az kap egy pontot, majd újra szabad állapotba kerül a két játékos.
@@ -10,17 +8,22 @@ A pálya folyamatosan megy jobbról balra, kisebb nagyobb előre legenerált szi
 A karakter viselkedése:
 Fix állapotban van a képernyőn, csak ugrani és guggolni tud. Folyamatosan zuhanó állapotban van, amíg szigethez nem érkezik.
 
+Objektumok: Pálya, szigetek(több féle - nagy, kicsi, zuhanó, emelkedő), karakter
 
------------------Pálya--------------------
+
+Pálya:
 Elemek: háttér, sziget
 Cselekvés: Fut, Gravitál
 
+Szigetek:
+Elemek: mérete
+Cselekvés: mozog, áll
 
-----------------Karakter---------------------
+Karakter:
 Elemek: karakterneve
 Cselekvés: gugol, ugrik, áll
 
------------------Játék--------------------
+Játék:
 csatlakozik két véletlen karakter
 foglalt állapotba kerül a két karakter
 betölti a hátteret
